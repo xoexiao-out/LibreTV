@@ -124,8 +124,8 @@ const API_SITES = {
     // 而作为观众无辜吗？毫无疑问，他们促成了黄色产业链的再生产。
     // 我们提供此警告，是希望您能认清这些内容的本质——它们是压迫和奴役的工具，而非娱乐。
     ckzy: {
-        api: 'https://www.ckzy1.com',
-        name: 'CK资源',
+        api: 'https://caiji.semaozy.net/inc/apijson_vod.php',
+        name: '色猫',
         adult: true
    },
         jkun: {
